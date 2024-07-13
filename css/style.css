@@ -981,7 +981,7 @@ p {
 
 #offcanvas-nav .m-nav .logo {
   margin-bottom: 40px;
-  text-decoration: none;
+  /* text-decoration: none; */
   color: green;
   font-size: 1.2em;
 }
